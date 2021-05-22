@@ -4,11 +4,11 @@
 
 # Site
 title: Holly Blog
-subtitle: ''
+subtitle: '爱设计 | 爱前端 | 爱摄影 | 爱生活'
 description: 'Holly部落，记录生活.'
 keywords: ['技术博客', '生活', '马尔济斯', '程序员', 'Python']
 author: 'Holly'
-language: 'zh-Hans'
+language: 'zh-CN'
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: ocean
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
